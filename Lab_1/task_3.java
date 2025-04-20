@@ -1,6 +1,6 @@
 public class task_3{
 	public static void main(String[]args){
-		String name = "Abdul Moiz";
+		String name = "Ammar Rajput";
 		int age = 21;
 		double GPA = 2.58;
 		char gender = 'M';
