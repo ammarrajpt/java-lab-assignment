@@ -1,7 +1,7 @@
 public class Task_1 {
     public static void main(String[] args) {
-        Book rdpd = new Book("Rich Dad & Poor Dad", "Robert Kiyosaki", true);
-        Book twows = new Book("The Wolf of Wall Street", "Belfort", true);
+        Book rdpd = new Book("prisoner of zendaya", "jeson", true);
+        Book twows = new Book("think and grow rich", "napoleon hill", true);
 
         rdpd.Display_Book();
         System.out.println("=======================");
