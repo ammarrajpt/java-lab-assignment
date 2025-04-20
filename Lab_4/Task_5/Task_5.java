@@ -12,7 +12,7 @@ public class Task_5 {
         double[] percentages1 = s1.calc_Percentage();
         double[] percentages2 = s2.calc_Percentage();
 
-        System.out.print("Percentages for Moiz: ");
+        System.out.print("Percentages for ammar: ");
         for (double p : percentages1) {
             System.out.print(p + " ");
         }
@@ -24,7 +24,7 @@ public class Task_5 {
         }
         System.out.println();
 
-        System.out.println("Concatenated ID and Name for Moiz: " + s1.concat_id());
+        System.out.println("Concatenated ID and Name for ammar: " + s1.concat_id());
         System.out.println("Concatenated ID and Name for Zain: " + s2.concat_id());
     }
 }
